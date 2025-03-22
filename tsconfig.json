@@ -69,5 +69,5 @@
       "verbatimModuleSyntax": false
     },
     "exclude": ["node_modules", "lib", "eslint.config.mjs"],
-    "include": [ "src/**/*.ts" ]
+    "include": [ "src/**/*.ts", "types/**/*.ts" ]
 }
